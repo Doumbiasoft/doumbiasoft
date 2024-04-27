@@ -67,21 +67,6 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 
 <br/>  
 
-## Repositories
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/doumbiasoft/capstone-two-expense-tracker-frontend" title="capstone-two-expense-tracker-frontend"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=doumbiasoft&repo=apstone-two-expense-tracker-frontend&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-  
-
-<br/>  
-
 
 <br />
 
