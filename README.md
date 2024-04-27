@@ -10,8 +10,6 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 
 * 🌍  I'm based in New York City Metropolitan Area
 * ✉️  You can contact me at [doumbiasoft@gmail.com](mailto:doumbiasoft@gmail.com)
-  
-<br/>  
 
 ## ⚡ Rapidfire  
 <table><tr><td valign="top" width="50%">
@@ -35,10 +33,7 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
   
 </div>  
 
-
 </td></tr></table>  
-
-<br/>  
 
 
 ## 🔥 Languages & Frameworks & Tools & Abilities 🔥
