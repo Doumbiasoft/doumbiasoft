@@ -14,7 +14,7 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 ## ⚡ Rapidfire  
 <table><tr><td valign="top" width="50%">
 
- <!-- ![Profile views counter](https://komarev.com/ghpvc/?username=doumbiasoft&&style=flat-square)-->
+![Profile views counter](https://komarev.com/ghpvc/?username=doumbiasoft&&style=flat-square)
   
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doumbiasoft&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=FAD689&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
 
