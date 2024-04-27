@@ -60,6 +60,20 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 
 </td></tr></table>  
 
+
+## Repositories
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Doumbiasoft/capstone-two-expense-tracker-frontend" title="Expense Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-two-expense-tracker-frontend&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+  <a align="right" href="https://github.com/Doumbiasoft/capstone-one-quick-recipe" title="Quick Recipe"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-one-quick-recipe&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Doumbiasoft/springboard-hack-or-snooze-ajax-api" title="Hack Or Snooze"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=springboard-hack-or-snooze-ajax-api&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Doumbiasoft/capstone-two-budget-tracker-backend" title="Budget Tracker Backend"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-two-budget-tracker-backend&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
 <br/>  
 
 
