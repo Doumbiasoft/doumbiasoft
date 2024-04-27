@@ -18,7 +18,7 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=doumbiasoft&&style=flat-square)  
   
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doumbiasoft&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doumbiasoft&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=FAD689&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
 
 </td><td valign="center" width="50%">
 
@@ -51,12 +51,12 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=doumbiasoft&show_icons=true&hide=&count_private=true&title_color=61dafb&text_color=ffffff&icon_color=0891b2&bg_color=20232a&hide_border=true&show_icons=true" alt="doumbiasoft's GitHub stats" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=doumbiasoft&show_icons=true&hide=&count_private=true&title_color=FAD689&text_color=ffffff&icon_color=0891b2&bg_color=20232a&hide_border=true&show_icons=true" alt="doumbiasoft's GitHub stats" align="left" style="width: 100%" />
 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=doumbiasoft&stroke=ffffff&background=20232a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" align="left"  style="width: 100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=doumbiasoft&stroke=ffffff&background=20232a&ring=FAD689&fire=0891b2&currStreakNum=ffffff&currStreakLabel=FAD689&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" align="left"  style="width: 100%"/>
 
 </td></tr></table>  
 
@@ -64,14 +64,14 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 ## Repositories
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Doumbiasoft/capstone-two-expense-tracker-frontend" title="Expense Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-two-expense-tracker-frontend&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Doumbiasoft/capstone-two-expense-tracker-frontend" title="Expense Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-two-expense-tracker-frontend&theme=react&border_color=FAD689&title_color=E4E2E2&border_radius=10"></a>
   
-  <a align="right" href="https://github.com/Doumbiasoft/capstone-one-quick-recipe" title="Quick Recipe"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-one-quick-recipe&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Doumbiasoft/capstone-one-quick-recipe" title="Quick Recipe"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-one-quick-recipe&theme=react&border_color=FAD689&title_color=E4E2E2&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Doumbiasoft/springboard-hack-or-snooze-ajax-api" title="Hack Or Snooze"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=springboard-hack-or-snooze-ajax-api&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Doumbiasoft/capstone-two-budget-tracker-backend" title="Budget Tracker Backend"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-two-budget-tracker-backend&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Doumbiasoft/springboard-hack-or-snooze-ajax-api" title="Hack Or Snooze"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=springboard-hack-or-snooze-ajax-api&theme=react&border_color=FAD689&title_color=E4E2E2&border_radius=10"></a>
+  <a align="right" href="https://github.com/Doumbiasoft/capstone-two-budget-tracker-backend" title="Budget Tracker Backend"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-two-budget-tracker-backend&theme=react&border_color=FAD689&title_color=E4E2E2&border_radius=10"></a>
 </div>
 
 <br/>  
