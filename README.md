@@ -22,11 +22,11 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 <table><tr><td valign="top" width="50%">
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=doumbiasoft&&style=flat-square)  
-<!--<img src="" align="center" style="width: 100%" />-->
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doumbiasoft&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 
-</td><td valign="top" width="50%">
+</td><td valign="center" width="50%">
 
 <div align="center">
 
@@ -37,9 +37,7 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
   
 
 - ❓ Ask me about anything related to .NET, JavaScript, Python stack and related technologies  
-  
 
-- ⚡ Fun fact: I keep night shift swithed on at all times
   
 </div>  
 
@@ -59,12 +57,10 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<!--<img src="https://github-readme-stats.vercel.app/api?username=doumbiasoft&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />-->
 <img src="https://github-readme-stats.vercel.app/api?username=doumbiasoft&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="doumbiasoft's GitHub stats" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doumbiasoft&hide_border=true&layout=compact" align="left" style="width: 100%" />-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=doumbiasoft&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" align="left" height="210" style="width: 100%"/>
 
 </td></tr></table>  
