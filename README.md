@@ -61,7 +61,7 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=doumbiasoft&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" align="left" height="210" style="width: 100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=doumbiasoft&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" align="left"  style="width: 100%"/>
 
 </td></tr></table>  
 
