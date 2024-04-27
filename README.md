@@ -1,7 +1,7 @@
-# Hi 👋, I'm Mouhamed Doumbia  
+## Hi 👋, I'm Mouhamed Doumbia  
 =============================================
 
-.NET FullStack Developer
+## .NET FullStack Developer
 ------------------------
 
 ### Socials
