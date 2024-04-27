@@ -1,8 +1,3 @@
-<!--## Hi 👋, I'm Mouhamed Doumbia  
-=============================================
-
-## .NET FullStack Developer
------------------------- -->
 ![Header](./header.png)
 ## Socials
 
