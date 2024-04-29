@@ -52,9 +52,14 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 ## 🖥️ Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=doumbiasoft&show_icons=true&hide=&count_private=true&title_color=B84DAF&text_color=000000&icon_color=0891b2&bg_color=F5F5F5&hide_border=true&show_icons=true" alt="doumbiasoft's GitHub stats" align="left" style="width: 100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=doumbiasoft&show_icons=true&hide=&count_private=true&title_color=B84DAF&text_color=ffffff&icon_color=0891b2&bg_color=20232a&hide_border=true&show_icons=true" alt="doumbiasoft's GitHub stats" align="left" style="width: 100%&theme=dark">
+  <img alt="Shows Mouhamed's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=doumbiasoft&show_icons=true&hide=&count_private=true&title_color=B84DAF&text_color=000000&icon_color=0891b2&bg_color=F5F5F5&hide_border=true&show_icons=true" alt="doumbiasoft's GitHub stats" align="left" style="width: 100%&theme=default">
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api?username=doumbiasoft&show_icons=true&hide=&count_private=true&title_color=B84DAF&text_color=ffffff&icon_color=0891b2&bg_color=20232a&hide_border=true&show_icons=true" alt="doumbiasoft's GitHub stats" align="left" style="width: 100%" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=doumbiasoft&show_icons=true&hide=&count_private=true&title_color=B84DAF&text_color=000000&icon_color=0891b2&bg_color=F5F5F5&hide_border=true&show_icons=true" alt="doumbiasoft's GitHub stats" align="left" style="width: 100%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=doumbiasoft&show_icons=true&hide=&count_private=true&title_color=B84DAF&text_color=ffffff&icon_color=0891b2&bg_color=20232a&hide_border=true&show_icons=true" alt="doumbiasoft's GitHub stats" align="left" style="width: 100%" />-->
 
 
 </td><td valign="top" width="50%">
