@@ -1,4 +1,4 @@
-<link href="Style.css" rel="stylesheet"></link>
+<link href="./Style.css" rel="stylesheet"></link>
 
 ![Header](./header-light.png#gh-light-mode-only)![Header](./header-dark.png#gh-dark-mode-only)
 ## 🔗 Socials
