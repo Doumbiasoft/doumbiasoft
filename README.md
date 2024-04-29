@@ -1,13 +1,3 @@
-<script>
-  // Check for dark mode preference
-  const darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
-  if (darkModeQuery.matches) {
-    document.getElementById('dark-mode-only').style.display = 'block';
-  } else {
-    document.getElementById('light-mode-only').style.display = 'block';
-  }
-</script>
-
 ![Header](./header-light.png#gh-light-mode-only)![Header](./header-dark.png#gh-dark-mode-only)
 ## 🔗 Socials
 
