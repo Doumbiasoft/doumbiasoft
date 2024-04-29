@@ -64,9 +64,14 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=doumbiasoft&stroke=000000&background=F5F5F5&ring=B84DAF&fire=0891b2&currStreakNum=000000&currStreakLabel=B84DAF&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" align="left"  style="width: 100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=doumbiasoft&stroke=ffffff&background=20232a&ring=B84DAF&fire=0891b2&currStreakNum=ffffff&currStreakLabel=B84DAF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" align="left"  style="width: 100%&theme=dark">
+  <img alt="Shows Mouhamed's GitHub Stats." src="https://github-readme-streak-stats.herokuapp.com/?user=doumbiasoft&stroke=000000&background=F5F5F5&ring=B84DAF&fire=0891b2&currStreakNum=000000&currStreakLabel=B84DAF&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" align="left"  style="width: 100%&theme=default">
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=doumbiasoft&stroke=ffffff&background=20232a&ring=B84DAF&fire=0891b2&currStreakNum=ffffff&currStreakLabel=B84DAF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" align="left"  style="width: 100%"/>
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=doumbiasoft&stroke=000000&background=F5F5F5&ring=B84DAF&fire=0891b2&currStreakNum=000000&currStreakLabel=B84DAF&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" align="left"  style="width: 100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=doumbiasoft&stroke=ffffff&background=20232a&ring=B84DAF&fire=0891b2&currStreakNum=ffffff&currStreakLabel=B84DAF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" align="left"  style="width: 100%"/>-->
 
 </td></tr></table>  
 
