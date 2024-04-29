@@ -59,7 +59,7 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 ## 📂 Repositories
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Doumbiasoft/capstone-two-expense-tracker-frontend" title="Expense Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-two-expense-tracker-frontend&theme=react&border_color=20232a&title_color=B84DAF&bg_color=20232a&border_radius=5"></a>
+ &nbsp;&nbsp; <a align="left" href="https://github.com/Doumbiasoft/capstone-two-expense-tracker-frontend" title="Expense Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-two-expense-tracker-frontend&theme=react&border_color=20232a&title_color=B84DAF&bg_color=20232a&border_radius=5"></a> &nbsp;&nbsp;
   
   <a align="right" href="https://github.com/Doumbiasoft/capstone-one-quick-recipe" title="Quick Recipe"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-one-quick-recipe&theme=react&border_color=20232a&title_color=B84DAF&bg_color=20232a&border_radius=5"></a>
 </div>
