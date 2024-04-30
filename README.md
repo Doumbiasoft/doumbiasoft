@@ -124,9 +124,16 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
   </a>
 
 
-  <a align="right" href="https://github.com/Doumbiasoft/capstone-two-budget-tracker-backend" title="Budget Tracker Backend"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-two-budget-tracker-backend&theme=react&border_color=F5F5F5&title_color=B84DAF&bg_color=F5F5F5&text_color=000000&border_radius=5"></a>
+  <!--<a align="right" href="https://github.com/Doumbiasoft/capstone-two-budget-tracker-backend" title="Budget Tracker Backend"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-two-budget-tracker-backend&theme=react&border_color=F5F5F5&title_color=B84DAF&bg_color=F5F5F5&text_color=000000&border_radius=5"></a>
   
-  <a align="right" href="https://github.com/Doumbiasoft/capstone-two-budget-tracker-backend" title="Budget Tracker Backend"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-two-budget-tracker-backend&theme=react&border_color=20232a&title_color=B84DAF&bg_color=20232a&text_color=ffffff&border_radius=5"></a>
+  <a align="right" href="https://github.com/Doumbiasoft/capstone-two-budget-tracker-backend" title="Budget Tracker Backend"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-two-budget-tracker-backend&theme=react&border_color=20232a&title_color=B84DAF&bg_color=20232a&text_color=ffffff&border_radius=5"></a>-->
+<a align="right" href="https://github.com/Doumbiasoft/capstone-two-budget-tracker-backend" title="Budget Tracker Backend">
+ <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-two-budget-tracker-backend&theme=react&border_color=20232a&title_color=B84DAF&bg_color=20232a&text_color=ffffff&border_radius=5&theme=dark">
+      <img align="right" height="115" alt="Shows Mouhamed's GitHub Stats." src="https://github-readme-stats.vercel.app/api/pin/?username=Doumbiasoft&repo=capstone-two-budget-tracker-backend&theme=react&border_color=F5F5F5&title_color=B84DAF&bg_color=F5F5F5&text_color=000000&border_radius=5&theme=default">
+    </picture>
+</a>
+  
 </div>
 
 <br/>  
