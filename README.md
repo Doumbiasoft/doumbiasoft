@@ -19,6 +19,11 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 <!--<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doumbiasoft&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=B84DAF&text_color=000000&icon_color=61dafb&bg_color=F5F5F5&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5#gh-light-mode-only" />
   
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doumbiasoft&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=B84DAF&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5#gh-dark-mode-only" />-->
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png#gh-light-mode-only" height="120" width="120"/>
+    <img src="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png#gh-dark-mode-only" height="120" width="120"/>
+</p>
 <div align=left>
     <a href="https://github.com/Doumbiasoft/github-readme-stats">
      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doumbiasoft&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=B84DAF&text_color=000000&icon_color=61dafb&bg_color=F5F5F5&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5#gh-light-mode-only" />
