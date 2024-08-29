@@ -28,7 +28,7 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 - 🔭 I’m currently working on [.NET MAUI Mobile Scan](https://github.com)  
   
 
-- 🌱 I’m currently learning .NET Clean Architecture  
+<!--- 🌱 I’m currently learning --> 
   
 
 - ❓ Ask me about anything related to .NET, JavaScript, Python stack and related technologies  
