@@ -1,6 +1,6 @@
 ![Header](./header-light.png#gh-light-mode-only)![Header](./header-dark.png#gh-dark-mode-only)
-## 🔗 Socials
-
+![Profile views counter](https://komarev.com/ghpvc/?username=doumbiasoft&style=flat-square&color=9b4f97)
+## 🔗 Socials 
 <p align="left"> <a href="https://www.github.com/doumbiasoft" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/doumbiamouhamed/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/doumbiasoft" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@mouhameddoumbia" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 
 
@@ -14,7 +14,7 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 ## ⚡ Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-![Profile views counter](https://komarev.com/ghpvc/?username=doumbiasoft&&style=flat-square)
+
 
 <div align=left>
      <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doumbiasoft&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=B84DAF&text_color=000000&icon_color=61dafb&bg_color=F5F5F5&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5#gh-light-mode-only" />
@@ -25,7 +25,7 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 
 <div align="center">
 
-- 🔭 I’m currently working on [.NET MAUI Mobile Scan](https://github.com)  
+- 🔭 I’m currently working on [FIKIA](https://fikiahub.netlify.app/student/signin)  
   
 
 <!--- 🌱 I’m currently learning --> 
