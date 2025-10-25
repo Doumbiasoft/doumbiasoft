@@ -64,7 +64,7 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
 </td></tr></table>  
 
 
-## 📂 Repositories
+<!---## 📂 Repositories
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Doumbiasoft/capstone-two-expense-tracker-frontend" title="Expense Tracker">
@@ -100,7 +100,7 @@ Experienced and results-driven Full Stack Developer with a passion for crafting 
     </picture>
 </a>
   
-</div>
+</div>-->
 
 <br/>  
 
